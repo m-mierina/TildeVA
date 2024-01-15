@@ -2,15 +2,15 @@
 
 #### URL:https://www.tilde.com/products-and-services/ai-powered-chatbots
 
-Tildes viedie čatboti: Tilde daudzvalodu viedie čatboti spēj daudz vairāk, nekā tikai atbildēt uz bieži uzdotiem jautājumiem. Klientu apkalpošana, pārdošana, pasākumu atbalsts, apmācības, datu apkopošana un citi uzdevumi — daudzvalodu teksta un balss asistenta piesaiste ir gudra izvēle. Tilde čatboti nodrošina sarunas visās Eiropas valodās un darbojas visu diennakti, nodrošinot nepārtrauktu atbalstu jebkurā kanālā un formātā — ar tekstu, balsi vai attēliem. 
+Tildes viedie sarunboti: Tilde daudzvalodu viedie čatboti spēj daudz vairāk, nekā tikai atbildēt uz bieži uzdotiem jautājumiem. Klientu apkalpošana, pārdošana, pasākumu atbalsts, apmācības, datu apkopošana un citi uzdevumi — daudzvalodu teksta un balss asistenta piesaiste ir gudra izvēle. Tilde čatboti nodrošina sarunas visās Eiropas valodās un darbojas visu diennakti, nodrošinot nepārtrauktu atbalstu jebkurā kanālā un formātā — ar tekstu, balsi vai attēliem. 
 
-Čatboti ar mākslīgā intelekta tehnoloģiju — jūsu virtuālie darbinieki, kas palīdzēs efektivizēt dažādus biznesa procesus, ietaupot laiku un izmaksas. 
+Sarunboti ar mākslīgā intelekta tehnoloģiju — jūsu virtuālie darbinieki, kas palīdzēs efektivizēt dažādus biznesa procesus, ietaupot laiku un izmaksas. 
 
-Tildes čatbotu tehnoloģijas nodrošina: Daudzvalodu atbalsts visās Eiropas valodās, Tehnoloģijas ar balss iespējām, Vienkārša integrācija visos kanālos (tīmekļa vietnēs, portālos, sociālajos tīklos un citur), Mašīnas un cilvēka sinerģija, Nav nepieciešamas programmēšanas prasmes 
+Tildes sarunbotu tehnoloģijas nodrošina: Daudzvalodu atbalsts visās Eiropas valodās, Tehnoloģijas ar balss iespējām, Vienkārša integrācija visos kanālos (tīmekļa vietnēs, portālos, sociālajos tīklos un citur), Mašīnas un cilvēka sinerģija, Nav nepieciešamas programmēšanas prasmes 
 
-Tilde VIEDIE ČATBOTI: Tildes čatboti ar mākslīgā intelekta tehnoloģiju nodrošina sarunas visās Eiropas valodās. 24/7 klientu apkalpošana, atbalsts, dati, apmācības, biežāk uzdotie jautājumi un citas iespējas dažādos kanālos un formātos. 
+Tilde VIEDIE SARUNBOTI: Tildes čatboti ar mākslīgā intelekta tehnoloģiju nodrošina sarunas visās Eiropas valodās. 24/7 klientu apkalpošana, atbalsts, dati, apmācības, biežāk uzdotie jautājumi un citas iespējas dažādos kanālos un formātos. 
 
-Tildes čatboti: Izveidojiet inteliģentus tērzēšanas robotus sava biznesa izaugsmei. Tilde tērzēšanas roboti var darīt vairāk nekā tikai atbildēt uz biežāk uzdotajiem jautājumiem. Vai tas būtu klientu atbalsts, pārdošana, talantu pieņemšana darbā un apmācība, pārdošana, datu vākšana, pasākumu vadība... Nosauciet savu vajadzību un izveidosim pielāgotu daudzvalodu tērzēšanas robotu jūsu biznesam! Saņemiet cenu piedāvājumu: https://tilde.com/products-and-services/ai-powered-chatbots/contact-us
+Tildes sarunboti: Izveidojiet inteliģentus tērzēšanas robotus sava biznesa izaugsmei. Tilde tērzēšanas roboti var darīt vairāk nekā tikai atbildēt uz biežāk uzdotajiem jautājumiem. Vai tas būtu klientu atbalsts, pārdošana, talantu pieņemšana darbā un apmācība, pārdošana, datu vākšana, pasākumu vadība... Nosauciet savu vajadzību un izveidosim pielāgotu daudzvalodu tērzēšanas robotu jūsu biznesam! Saņemiet cenu piedāvājumu: https://tilde.com/products-and-services/ai-powered-chatbots/contact-us
 
 Tilde.AI viedie sarunboti: Laiks automatizēt klientu apkalpošanu! Pieņem darbā arī tu Tildes daudzvalodu teksta un balss asistentu, kas ir pieejams visu diennakti bez brīvdienām! Sazināties: https://tilde.com/lv/products-and-services/ai-powered-chatbots/contact-us
 
