@@ -1,4 +1,4 @@
-Tilde
+# Tilde
 
 #### URL: https://www.tilde.com/products-and-services
 
@@ -26,9 +26,7 @@ Tilde ir ES Padomes uzticamais tehnoloģiju partneris. Tilde palīdzējusi Eirop
 
 
 
-Tilde TULKOŠANA UN LOKALIZĀCIJA: Pasaules klases partnera nodrošināti tulkošanas un lokalizācijas pakalpojumi - Ātrums un precizitāte, Plašas praktiskas zināšanas, Izcilas terminoloģijas prasmes, Elastīgums un uzticamība.
 
-Tilde tulkošana un lokalizācija: Saskaņā ar ikgadējo CSA pētījumu Tilde 2022. gadā ir viens no 100 labākajiem valodas pakalpojumu nodrošinātājiem pasaulē. Mums ir vairāk nekā 20 gadus ilga pieredze, plaša lingvistu komanda un zinoši projektu vadītāji, kuri nodrošina personalizētu pakalpojumu sniegšanu ikvienam klientam. Tulkošana un lokalizācija, rediģēšana, SEO tulkošana, datorizdevniecība (DTP), valodas kvalitātes pārbaude, subtitru veidošana — lai kas tas būtu, mums piemīt nepieciešamās zināšanas. Turklāt mūsu valodas tehnoloģijas ar mākslīgā intelekta tehnoloģijām panāk lielisku līdzsvaru starp cilvēku un mākslīgo intelektu. 
  
 Tilde RUNAS TEHNOLOĢIJAS: Izmantojot Tilde Transcribe runas atpazīšanas iespējas, varat ierakstīt audio un video failus reāllaikā vai tos augšupielādēt un iegūt pilnu teksta transkriptu uzreiz. Ērti lejupielādējiet un rediģējiet teksta failus, lai nodrošinātu izcilu precizitāti. Ģenerējiet interviju, video, raidierakstu, balss ierakstu, sapulču, individuālo piezīmju un praktiski jebkura cita satura automātiskus transkriptus. Izmantojot Tildes mākslīgo balsi, varat klausīties dažādu rakstīto tekstu. Balss sintēzes tehnoloģija nodrošina cilvēkiem ar redzes vai dislektiskiem traucējumiem piekļuvi rakstītam saturam.  
 
