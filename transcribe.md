@@ -2,6 +2,11 @@
 
 #### URL:https://www.tilde.com/products-and-services/transcribe
 
+Tilde RUNAS TEHNOLOĢIJAS: Mākonī izvietots risinājums, Vienkārša integrācija, Daudzvalodu risinājums, Failu pārvaldība
+
+Tilde RUNAS TEHNOLOĢIJAS: Tehnoloģijas, kas pārveido runāto par tekstu un tekstu par runu, nodrošina cilvēka-datora saziņu, informācijas pieejamību un iespēju analizēt audio saturu. Tilde Transcribe izmanto mākslīgo intelektu, lai automātiski transkribētu intervijas, audio un video failus, piezīmes, sapulces, raidierakstus un daudz ko citu. 
+
+
 Tilde Transcribe: transkribē audioierakstu līdz 180 sekundēm: https://transcribe.tilde.com/ Sāc bezmaksas izmēģinājumu, lai iegūtu vairāk: https://tilde.com/products-and-services/transcribe/pricing?lang=lv
 
 Ietaupiet laiku ar automatizētu runas transkripciju. Vienkāršs veids, kā pārvērst runu par tekstu! Diktējiet tekstu vai augšupielādējiet iepriekš ierakstītus audio/video failus un saņemiet transkriptu uzreiz. Ērti lejupielādējiet un rediģējiet teksta failus, lai iegūtu augstāko precizitāti. https://transcribe.tilde.com/
