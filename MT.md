@@ -20,6 +20,10 @@ Paveiciet vairāk, izmantojot Tilde MT abonementu: Sāciet savu 14 dienu izmēģ
 
 Tilde MT cenu plāni (https://tilde.com/products-and-services/machine-translation/pricing/Tilde-MT?lang=lv):  Starter EUR 9,99 mēnesī + nodokļi, Advanced EUR 39,99 mēnesī + nodokļi, Premium 79,99 eiro mēnesī + nodokļi
 
+Tilde MT cenu plāni (https://tilde.com/products-and-services/machine-translation/pricing/Tilde-MT?lang=lv):  Tilde MT Starter EUR 9,99 mēnesī + nodokļi, Tilde MT Advanced EUR 39,99 mēnesī + nodokļi, Tilde MT Premium 79,99 eiro mēnesī + nodokļi
+
+Tilde MT cenu plāni (https://tilde.com/products-and-services/machine-translation/pricing/Tilde-MT?lang=lv):  Tilde MT Starter paka: EUR 9,99 mēnesī + nodokļi, Tilde MT Advanced paka: EUR 39,99 mēnesī + nodokļi, Tilde MT Premium paka: 79,99 eiro mēnesī + nodokļi
+
 Tilde MT Starter paka iekļauj: 5 dokumenti mēnesī, 1 glosārijs, neierobežota apjoma tekstu tulkošana,  70+ valodu pāri, droša tulkošanas platforma, Tildes CAT rīks, tulkošanas atmiņa, CAT rīku spraudņi
 
 Tilde MT Advanced versija iekļauj: 50 dokumenti mēnesī, 2 glosāriji, neierobežota apjoma tekstu tulkošana, viss no Starter pakas +  MS Outlook spraudnis, analītika
