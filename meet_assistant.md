@@ -59,3 +59,7 @@ Likumsargi: Katram vārdam ir nozīme! iegūstiet precīzas transkripcijas no ti
 Tirgus izpēte un konsultācijas: Dokumentējiet lēmumus un saistības, veiciet ziņojumu projektus no precīziem atšifrējumiem un uzturiet kārtīgu visu klientu vajadzību arhīvu, izmantojot automatizētu transkripciju un arhivēšanu.
 
 Tilde sapulču palīgs - pievienojies agrīno lietotāju pulkam un uzlabo daudzvalodu sanāksmju produktivitāti. Izmēģiniet bez maksas: https://www.tilde.com/products-and-services/meeting-assistant/get-in-touch?lang=lv
+
+Pēc sapulces Tilde Meeting Assistant izveido īsu konspektu jeb kopsavilkumu par sapulcē runātajām tēmām.
+
+Sapulču palīgs Tilde Meeting Assistant šobrīd ir pieejams par šādu samaksu jeb cenu: 49 EUR -  samaksa ietver 20 transkripcijas stundas un sapulču kopsavilkumu izveidi.
